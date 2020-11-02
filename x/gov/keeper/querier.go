@@ -1,4 +1,4 @@
-package gov
+package keeper
 
 import (
 	"fmt"
@@ -7,7 +7,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/maticnetwork/heimdall/gov/types"
+	"github.com/maticnetwork/heimdall/x/gov/types"
 )
 
 func NewQuerier(keeper Keeper) sdk.Querier {

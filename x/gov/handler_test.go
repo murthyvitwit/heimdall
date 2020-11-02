@@ -12,7 +12,7 @@ import (
 
 	"github.com/maticnetwork/heimdall/app"
 	"github.com/maticnetwork/heimdall/gov"
-	"github.com/maticnetwork/heimdall/gov/types"
+	"github.com/maticnetwork/heimdall/x/gov/types"
 	authTypes "github.com/maticnetwork/heimdall/auth/types"
 	"github.com/maticnetwork/heimdall/types/simulation"
 	hmTypes "github.com/maticnetwork/heimdall/types"

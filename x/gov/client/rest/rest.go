@@ -10,7 +10,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/context"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	restClient "github.com/maticnetwork/heimdall/client/rest"
+	// restClient "github.com/maticnetwork/heimdall/client/rest"
 	gcutils "github.com/maticnetwork/heimdall/x/gov/client/utils"
 	"github.com/maticnetwork/heimdall/x/gov/types"
 	hmTypes "github.com/maticnetwork/heimdall/types"

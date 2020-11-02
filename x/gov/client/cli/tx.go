@@ -16,7 +16,7 @@ import (
 
 	govutils "github.com/maticnetwork/heimdall/x/gov/client/utils"
 	"github.com/maticnetwork/heimdall/x/gov/types"
-	"github.com/maticnetwork/heimdall/helper"
+	// "github.com/maticnetwork/heimdall/helper"
 	hmTypes "github.com/maticnetwork/heimdall/types"
 )
 

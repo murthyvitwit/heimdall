@@ -1,4 +1,4 @@
-package gov_test
+package keeper
 
 import (
 	"strings"
@@ -11,7 +11,7 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 	"github.com/stretchr/testify/suite"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/maticnetwork/heimdall/gov/types"
+	"github.com/maticnetwork/heimdall/x/gov/types"
 )
 
 // QuerierTestSuite integrate test suite context object

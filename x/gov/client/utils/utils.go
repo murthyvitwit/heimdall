@@ -1,6 +1,6 @@
 package utils
 
-import "github.com/maticnetwork/heimdall/gov/types"
+import "github.com/maticnetwork/heimdall/x/gov/types"
 
 // NormalizeVoteOption - normalize user specified vote option
 func NormalizeVoteOption(option string) string {

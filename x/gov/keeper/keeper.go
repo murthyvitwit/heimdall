@@ -1,4 +1,4 @@
-package gov
+package keeper
 
 import (
 	"fmt"
@@ -8,11 +8,11 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/maticnetwork/heimdall/gov/types"
-	"github.com/maticnetwork/heimdall/params/subspace"
-	"github.com/maticnetwork/heimdall/staking"
-	"github.com/maticnetwork/heimdall/supply"
-	supplyTypes "github.com/maticnetwork/heimdall/supply/types"
+	"github.com/maticnetwork/heimdall/x/gov/types"
+	// "github.com/maticnetwork/heimdall/params/subspace"
+	// "github.com/maticnetwork/heimdall/staking"
+	// "github.com/maticnetwork/heimdall/supply"
+	// supplyTypes "github.com/maticnetwork/heimdall/supply/types"
 )
 
 // Keeper governance Keeper

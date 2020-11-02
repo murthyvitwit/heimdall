@@ -1,4 +1,4 @@
-package gov_test
+package keeper
 
 import (
 	"math/rand"
@@ -13,7 +13,7 @@ import (
 	"github.com/maticnetwork/heimdall/gov"
 	hmTypes "github.com/maticnetwork/heimdall/types"
 	"github.com/maticnetwork/heimdall/types/simulation"
-	"github.com/maticnetwork/heimdall/gov/types"
+	"github.com/maticnetwork/heimdall/x/gov/types"
 	"github.com/maticnetwork/heimdall/helper/mocks"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"

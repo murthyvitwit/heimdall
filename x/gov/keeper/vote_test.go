@@ -1,4 +1,4 @@
-package gov_test
+package keeper
 
 import (
 	"testing"
@@ -10,7 +10,7 @@ import (
 	// "github.com/maticnetwork/heimdall/gov"
 	hmTypes "github.com/maticnetwork/heimdall/types"
 	"github.com/maticnetwork/heimdall/types/simulation"
-	"github.com/maticnetwork/heimdall/gov/types"
+	"github.com/maticnetwork/heimdall/x/gov/types"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 	abci "github.com/tendermint/tendermint/abci/types"
