@@ -8,7 +8,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	authTypes "github.com/maticnetwork/heimdall/auth/types"
+	authTypes "github.com/maticnetwork/heimdall/x/auth/types"
 	"github.com/maticnetwork/heimdall/gov/types"
 	hmTypes "github.com/maticnetwork/heimdall/types"
 )

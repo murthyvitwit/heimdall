@@ -11,8 +11,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
 	restClient "github.com/maticnetwork/heimdall/client/rest"
-	gcutils "github.com/maticnetwork/heimdall/gov/client/utils"
-	"github.com/maticnetwork/heimdall/gov/types"
+	gcutils "github.com/maticnetwork/heimdall/x/gov/client/utils"
+	"github.com/maticnetwork/heimdall/x/gov/types"
 	hmTypes "github.com/maticnetwork/heimdall/types"
 	"github.com/maticnetwork/heimdall/types/rest"
 )

@@ -1,7 +1,7 @@
 package keeper
 
 import (
-	"github.com/maticnetwork/heimdall/x/gov/types"
+	"github.com/maticnetwork/heimdall/x/checkpoint/types"
 )
 
 var _ types.QueryServer = Keeper{}

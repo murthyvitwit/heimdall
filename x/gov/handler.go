@@ -6,7 +6,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
 	hmCommon "github.com/maticnetwork/heimdall/common"
-	"github.com/maticnetwork/heimdall/gov/types"
+	"github.com/maticnetwork/heimdall/x/gov/types"
 	hmTypes "github.com/maticnetwork/heimdall/types"
 )
 

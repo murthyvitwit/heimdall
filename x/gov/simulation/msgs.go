@@ -10,8 +10,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/simulation"
 
-	"github.com/maticnetwork/heimdall/gov"
-	govTypes "github.com/maticnetwork/heimdall/gov/types"
+	"github.com/maticnetwork/heimdall/x/gov"
+	govTypes "github.com/maticnetwork/heimdall/x/gov/types"
 	hmTypes "github.com/maticnetwork/heimdall/types"
 )
 

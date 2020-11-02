@@ -14,8 +14,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/version"
 
-	govutils "github.com/maticnetwork/heimdall/gov/client/utils"
-	"github.com/maticnetwork/heimdall/gov/types"
+	govutils "github.com/maticnetwork/heimdall/x/gov/client/utils"
+	"github.com/maticnetwork/heimdall/x/gov/types"
 	"github.com/maticnetwork/heimdall/helper"
 	hmTypes "github.com/maticnetwork/heimdall/types"
 )
